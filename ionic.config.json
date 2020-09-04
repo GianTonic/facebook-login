@@ -1,0 +1,8 @@
+{
+  "name": "socialdisco",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
